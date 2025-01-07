@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anuradha-Bala
-- 📊 I’m interested in data science
-- 🌱 I’m currently learning from DataCamp, Kaggle and IITM yt playlists⬅️(great resources!)
-- 🤝 I’m looking to collaborate on DS projects
+- 📊 I’m interested in web development
+- 🌱 I’m currently learning from yt playlists⬅️(great resources!)
+- 🤝 I’m looking to collaborate on projects
 - 📫 How to reach me, mail: anuradha.bala.official@gmail.com, LinkedIn: https://www.linkedin.com/in/anuradha-bala-70b697196
 
 <!---
